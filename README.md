@@ -1,4 +1,4 @@
-# Percona MongoDB Exporter
+# Docker Image for Percona MongoDB Exporter
 
 Based on [MongoDB exporter](https://github.com/dcu/mongodb_exporter) by David Cuadrado (@dcu), but forked for full sharded support and structure changes.
 
